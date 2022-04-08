@@ -1,0 +1,68 @@
+body {
+    margin: 50px auto;
+    height: 850px;
+    background-color: #fffff;
+    background-position: center 60%;
+    background-image: url('/img/fond.jpg');
+    background-repeat: no-repeat;
+    font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+    color: #0492BA;
+    text-align: center;
+    font-size: 32pt;
+    margin: 45px auto 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    color: #0492BA;
+    text-align: center;
+    font-size: 32pt;
+    margin: 0px auto;
+}
+p {
+    width: 650px;
+    color: #0492BA;
+    text-align: center;
+    font-size: 18pt;
+    margin: 50px auto;
+}
+
+div {
+    background-color: #0492BA;
+    width: 150px;
+    height: 25px;
+    border: 1px solid red;
+    padding: 10px 0;
+    margin: 470px auto;
+    text-align: center;
+    font-size: 15pt;
+    border-radius: 15px;
+}
+div a {
+    color: #FFFFFF;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+main {
+    text-align: center;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+a:link {
+	color: red;
+}
+
+a:hover {
+    color: red;
+	text-decoration: none;
+}
+a:active {
+	color: blue;
+}

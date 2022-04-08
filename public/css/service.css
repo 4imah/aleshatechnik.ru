@@ -1,0 +1,48 @@
+.all-section {
+    width: 1150px;
+    margin: auto;
+    text-align: justify;   
+}
+
+table {
+    margin-bottom: 50px;
+}
+th {
+    color: black;
+    font-size: 18pt;  
+}
+td {
+    color: black;
+    font-size: 15pt;
+    line-height: 40px; 
+}
+
+.descr {
+    color: white;
+}
+
+select {
+    border: 1px solid #E8E8E8;
+    height: 45px;
+    width: 360px;
+    text-indent: 15px;
+}
+#feedback {
+    width: 1200px;
+    margin: auto;
+}
+#add {
+    width: 1150px;
+    margin: auto;
+    text-align: justify;  
+}
+#review {
+    width: 1150px;
+    margin: 100px auto;
+    text-align: justify;  
+}
+
+#view {
+    border: 1px solid #E8E8E8;
+    line-height: 15px;
+}
